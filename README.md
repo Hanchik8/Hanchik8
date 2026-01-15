@@ -18,14 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Azizkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanchik8&show_icons=true&theme=gotham&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanchik8&layout=compact&theme=gotham&hide_border=true)
-
----
-
 ### 🔗 Контакты
 
 - **Portfolio:** [azizkhan.dev](https://azizkhan.dev)
