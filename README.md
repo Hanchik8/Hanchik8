@@ -2,7 +2,7 @@
 
 **Backend Developer | Java & Microservices Specialist**
 
-Специализируюсь на разработке масштабируемых серверных решений, безопасности и микросервисной архитектуре. Студент International Alatoo University.
+Специализируюсь на разработке масштабируемых серверных решений, безопасности и микросервисной архитектуре. Студент Alatoo International University.
 
 ---
 
